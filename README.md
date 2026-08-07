@@ -1,7 +1,7 @@
-==============================
+==
                SALES TREND DASHBOARD
                    BICYCLE SHOP
-===============================
+==
 
 ===============================
 COMPLETE DASHBOARD SNAPSHOT
