@@ -1,11 +1,9 @@
-==
+----------------------------------------------------------------------------------------------------
                SALES TREND DASHBOARD
                    BICYCLE SHOP
-==
+----------------------------------------------------------------------------------------------------
 
-===============================
 COMPLETE DASHBOARD SNAPSHOT
-===============================
 
 ![Complete Dashboard](Images/dashboard.png)
 
@@ -27,19 +25,19 @@ The dashboard provides insights into:
 • Top Selling Product
 • Monthly Sales Trend
 
-===========================
+--------------------------------------------------------
+
 TOOLS USED
-===========================
 
 • Microsoft Excel
 • Power Query Editor
 • Power BI Desktop
 • DAX
-• GitHub
 
-================================
+--------------------------------------------------------
+
 POWER QUERY EDITOR STEPS
-================================
+
 
 Step 1: Load Dataset
 
@@ -149,9 +147,9 @@ Click:
 
 Close & Apply
 
-========================================================
+
 DAX MEASURES
-========================================================
+
 
 Total Sales
 
@@ -204,9 +202,7 @@ VALUES(Sales[Product]),
 [Total Sales]
 )
 
-==============================
 DASHBOARD CREATION STEPS
-==============================
 
 Step 1: Create Slicers
 
@@ -232,10 +228,6 @@ Create KPI cards for:
 • Profit %
 
 • Units Sold
-
-• Sum of Top Selling Product
-
-• Top Selling Product
 
 SNAPSHOT
 
@@ -370,9 +362,8 @@ SNAPSHOT
 ![Units Sold Chart](Images/units_chart.png)
 
 
-========================================================
 INSIGHTS
-========================================================
+
 
 1. Japan generated the highest sales.
 
@@ -386,6 +377,5 @@ INSIGHTS
 
 6. Total sales reached 118.73M.
 
-========================================================
+
 END OF REPORT
-========================================================
